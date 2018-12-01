@@ -18,7 +18,6 @@ function setup() {
         }
     }
 
-    u[8][8] = 5;
 
     var p = 0;
     
